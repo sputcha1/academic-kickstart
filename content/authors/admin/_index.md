@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Srshti Putcha
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student at the STOR-i Centre for Doctoral Training
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Lancaster University
+  url: "https://www.lancaster.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a second year PhD student based at the STOR-i Centre for Doctoral Training. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bayesian inference
+- Markov chain Monte Carlo
+- Machine Learning
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MRes in Statistics and Operational Research
+    institution: Lancaster University
+    year: 2018
+  - course: MSc in Statistics (Research)
+    institution: London School of Economics and Political Science
+    year: 2017
+  - course: BSc in Mathematics and Economics
+    institution:  London School of Economics and Political Science
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:s.putcha1@lancaster.ac.uk
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/storisrshti
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=dWKb1jAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sputcha1
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +70,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Welcome to my personal website!
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a second year PhD student at the [STOR-i Centre for Doctoral Training.](/stor-i/) My project is supervised by [Dr. Chris Nemeth](https://www.lancaster.ac.uk/~nemeth/) (Lancaster), [Professor Paul Fearnhead](https://maths.lancs.ac.uk/~fearnhea/) (Lancaster) and [Dr. Emily Fox](https://homes.cs.washington.edu/~ebfox/) (University of Washington).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My PhD seeks to develop new methodology for scalable Bayesian inference. In particular, I study stochastic gradient Markov chain Monte Carlo (SGMCMC) methods. Click [here](research/) for a full description of my research. 
+
+Alongside my PhD, I help to run the weekly student support sessions held internally at STOR-i and sit on the [RSS Lancashire and East Cumbria](https://www.rss-lancashire.org.uk/home) local group committee as Secretary.

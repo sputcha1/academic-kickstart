@@ -12,33 +12,28 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Teaching Assistant"
+  company = "Department of Mathematics and Statistics, Lancaster University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = ""
+  date_start = "2018-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+
+Currently teaching the first-year undergraduate MATH110 and MATH100 streams, as well as the second-year undergraduate MATH230 Probability course. 
+"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Summer STOR-i Research Intern"
+  company = "STOR-i Centre for Doctoral Training, Lancaster University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2015-07-01"
+  date_end = "2015-09-01"
+  description = """
+   Conducted and presented an independent research project under the supervision of a first year PhD student. My project was entitled *Autocorrelation Estimates of Locally Stationary Time Series*.
 
+"""
 +++
