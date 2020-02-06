@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Research"  # A link title for your page.
-  url = "research"  # The URL of your page.
+  url = "research/"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
 
 [[main]]
@@ -42,6 +42,6 @@
 
 [[main]]
   name = "STOR-i"  # A link title for your page.
-  url = "stor-i"  # The URL of your page.
+  url = "stor-i/"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
 
