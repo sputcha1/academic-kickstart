@@ -25,11 +25,11 @@ My research will focus on developing scalable Markov chain Monte Carlo (MCMC) al
 
 							
 ###### Talks and Posters
-* STOR-i PhD Forum, February 2019, Lancaster University {{% staticref "files/forum_2019.pdf" %}}[PDF]{{% /staticref %}}
-* Research Students' Conference in Probability and Statistics, June 2019, University of Exeter {{% staticref "files/poster_ssm.pdf" %}}[PDF]{{% /staticref %}}
-* Bayes Comp 2020, January 2020, University of Florida 
+* **Talk:** STOR-i PhD Forum, February 2019, Lancaster University 
+* **Poster:** Research Students' Conference in Probability and Statistics, June 2019, University of Exeter  {{% staticref "files/poster_ssm.pdf" %}}[PDF]{{% /staticref %}}
+* **Poster:** Bayes Comp 2020, January 2020, University of Florida 
 
-### Masters' Research: Projects
+### Masters Research Projects
 
 * **Lancaster University:** Customer choice-modelling in demand management {{% staticref "files/rt1.pdf" %}}[PDF]{{% /staticref %}}
 * **Lancaster University:** High-dimensional particle filters {{% staticref "files/rt2.pdf" %}}[PDF]{{% /staticref %}}

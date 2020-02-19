@@ -72,7 +72,7 @@ user_groups:
 ---
 Welcome to my personal website!
 
-I am a second year PhD student at the [STOR-i Centre for Doctoral Training.](/stor-i/) My project is supervised by [Dr. Chris Nemeth](https://www.lancaster.ac.uk/~nemeth/) (Lancaster), [Professor Paul Fearnhead](https://maths.lancs.ac.uk/~fearnhea/) (Lancaster) and [Dr. Emily Fox](https://homes.cs.washington.edu/~ebfox/) (University of Washington).
+I am a second year PhD student at the [STOR-i Centre for Doctoral Training.](stor-i/) My project is supervised by [Dr. Chris Nemeth](https://www.lancaster.ac.uk/~nemeth/) (Lancaster), [Professor Paul Fearnhead](https://maths.lancs.ac.uk/~fearnhea/) (Lancaster) and [Dr. Emily Fox](https://homes.cs.washington.edu/~ebfox/) (University of Washington).
 
 My PhD seeks to develop new methodology for scalable Bayesian inference. In particular, I study stochastic gradient Markov chain Monte Carlo (SGMCMC) methods. Click [here](research/) for a full description of my research.  
 

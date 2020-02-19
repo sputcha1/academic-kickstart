@@ -36,13 +36,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/1901.10568"
+url_preprint: "https://arxiv.org/abs/1901.10568"
 url_code: "https://github.com/aicherc/sgmcmc_ssm_code"
 url_dataset:
 url_poster: "files/poster_ssm.pdf"
 url_project: 
 url_slides:
-url_source:
+url_source: 
 url_video:
 
 # Featured image
