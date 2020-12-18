@@ -15,7 +15,7 @@ header:
 ---
 
 ### PhD Research: Scalable Monte Carlo in the general Big Data setting
-_Supervised by Dr. Chris Nemeth (Lancaster University), Prof. Paul Fearnhead (Lancaster University) and Prof. Emily Fox (University of Washington)_
+_Supervised by Dr. Chris Nemeth (Lancaster University) and Prof. Paul Fearnhead (Lancaster University)_
 
 Monte Carlo methods are often required to produce exact inference and to evaluate models in the Bayesian setting. These algorithms are widely implemented by scientists and industrial practitioners, due to their versatility and strong theoretical properties.
 

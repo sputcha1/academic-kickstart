@@ -19,7 +19,7 @@ date_format = "Jan 2006"
   location = "London, United Kingdom"
   date_start = "2020-07-01"
   date_end = "2020-11-30"
-  description = """I recently joined Cervest as a Research Resident within the science team. During my time at the company, I will be working on designing and implementing models to infer land surface temperature within urban environments.""" 
+  description = """I joined Cervest as a Research Resident within the science team. During my time at the company, I worked on designing and implementing models to infer land surface temperature within urban environments.""" 
   
 
   [[experience]]
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   company_url = "https://www.lancaster.ac.uk/"
   location = "Lancaster, United Kingdom"
   date_start = "2018-10-01"
-  date_end = "2019-07-01"
+  date_end = "2019-09-01"
   description = """I worked as a Graduate Teaching Assistant within the Department of Mathematics and Statistics for two academic years. I taught first and second year undergraduate Maths courses in introductory calculus, probability, statistics, and linear algebra. I also taught postgraduate level courses in Bayesian inference and computational methods. 
 """
 

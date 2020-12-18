@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_preprint: "https://arxiv.org/abs/1901.10568"
-url_code: "https://github.com/aicherc/sgmcmc_ssm_code"
+url_code: "https://github.com/sputcha1/sgmcmc_ssm_code"
 url_dataset:
 url_poster: ""
 url_project: 

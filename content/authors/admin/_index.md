@@ -23,7 +23,7 @@ bio: I am a final year PhD student based at the STOR-i Centre for Doctoral Train
 interests:
 - Bayesian inference
 - Markov chain Monte Carlo
-- Machine Learning
+- Machine learning
 
 
 education:
@@ -80,10 +80,10 @@ user_groups:
 ---
 Welcome to my personal website!
 
-I am a final year PhD student at the [STOR-i Centre for Doctoral Training.](stor-i/) My project is supervised by [Dr. Chris Nemeth](https://www.lancaster.ac.uk/~nemeth/) (Lancaster), [Professor Paul Fearnhead](https://maths.lancs.ac.uk/~fearnhea/) (Lancaster) and [Dr. Emily Fox](https://homes.cs.washington.edu/~ebfox/) (University of Washington).
+I am a final year PhD student at the [STOR-i Centre for Doctoral Training.](https://www.lancaster.ac.uk/stor-i/) My project is supervised by [Dr. Chris Nemeth](https://www.lancaster.ac.uk/~nemeth/) (Lancaster) and [Professor Paul Fearnhead](https://maths.lancs.ac.uk/~fearnhea/) (Lancaster).
 
 My PhD seeks to develop new methodology for scalable Bayesian inference. In particular, I study stochastic gradient Markov chain Monte Carlo (SGMCMC) methods. A full description of my research can be found [here.](research/)
 
-Alongside my PhD, I sit on the [RSS Lancashire and East Cumbria](https://rss.org.uk/membership/rss-groups-and-committees/groups/lancashire-east-cumbria/) local group committee. I also served as the local group Secretary between October 2019 and September 2020. I am currently undertaking a five-month research residency at [Cervest](https://www.cervest.earth/) within the science team. 
+Alongside my PhD, I sit on the [RSS Lancashire and East Cumbria](https://rss.org.uk/membership/rss-groups-and-committees/groups/lancashire-east-cumbria/) local group committee. I also served as the local group Secretary between October 2019 and September 2020. Between July and November 2020, I undertook a five-month research residency at [Cervest](https://www.cervest.earth/) within the science team. 
 
-In my spare time, I volunteer as a Trustee for the [North Lancashire Counselling Service,](http://www.northlancscounselling.org.uk/) read extensively and participate occasionally in fitness-related activities. Click [here](https://github.com/sputcha1/book_recs) for a list of my current book favourites.
+In my spare time, I volunteer as a Trustee for the [North Lancashire Counselling Service,](http://www.northlancscounselling.org.uk/) read extensively and participate occasionally in fitness-related activities. [Click here](https://github.com/sputcha1/book_recs) for a list of my current book favourites.
